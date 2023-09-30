@@ -1,0 +1,24 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+    border-top-style: double;
+    border-bottom-style: solid;
+    border-radius: 75px;
+    border-color: blue;
+    text-decoration-color: gold;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    border-image-width: 65px;
+    border-radius: 75px;
+    max-width: fit-content;
+    width: 75px;
+}
